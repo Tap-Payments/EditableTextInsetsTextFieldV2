@@ -6,7 +6,6 @@ target 'EditableTextInsetsTextFieldV2' do
   use_frameworks!
 
   # Pods for EditableTextInsetsTextFieldV2
-pod 'SwiftLint'
   pod 'TapAdditionsKitV2'
 
 end
