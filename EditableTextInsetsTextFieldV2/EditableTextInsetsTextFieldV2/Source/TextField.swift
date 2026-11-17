@@ -5,7 +5,8 @@
 //  Copyright © 2019 Tap Payments. All rights reserved.
 //
 
-import struct	TapAdditionsKitV2.Locale
+import struct	Foundation.Locale
+import		TapAdditionsKitV2
 import class    UIKit.UITextField.UITextField
 import class    UIKit.UITextInput.UITextInputMode
 import class    UIKit.UITextInput.UITextRange
